@@ -1,0 +1,4 @@
+node_modules/
+.claude/
+.env
+package-lock.json
